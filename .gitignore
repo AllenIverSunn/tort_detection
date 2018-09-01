@@ -1,0 +1,9 @@
+*.pyc
+*.txt
+*.h5
+*.json
+test.py
+.DS_Store
+*.p
+*.pickle
+.idea/
